@@ -1,0 +1,16 @@
+- Criando APIs com NodeJs:
+
+	1) Instalação Node, NPM e VS Code
+	2) npm init e instalação dos pacotes
+		- Inicializar um projeto com node: npm init -y
+	3) Criando um servidor Web
+		- npm install http express debug --save
+	4) Normalizando a porta
+	5) Gerenciando Erros do Servidor
+	6) Iniciando o Debug
+	7) Separando o Servidor
+	8) Configurando o NPM Start
+	9) Nodemon
+		- npm install nodemon --save-dev
+	10) CRUD REST
+		- npm install body-parser --save
